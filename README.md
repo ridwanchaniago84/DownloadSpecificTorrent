@@ -20,3 +20,5 @@ Argument | Description
 -s | Select section menu. enum: download \\| list
 -p | The index file will be downloaded. ex: 2\\|5\\|7
 -t | Total file of torrent
+## License
+[MIT](https://github.com/ridwanchaniago84/DownloadSpecificTorrent/blob/main/LICENSE)
